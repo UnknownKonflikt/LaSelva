@@ -2,7 +2,8 @@
 import { FaSoundcloud, FaMixcloud, FaBandcamp, FaFacebook, FaTiktok, FaTwitch, FaInstagram, FaYoutube } from 'react-icons/fa';
 //import Logo from '../../assets/LaSelva/LaSelvaLogo.png';
 import GabeDJ from '../../assets/LaSelva/NapsterGabe/GabeDJ.jpg';
-import GabeLogo from '../../assets/LaSelva/NapsterGabe/gabeLogo.png';
+import GabeLogo from '../../assets/LaSelva/NapsterGabe/GabeLogo.png';
+
 function NapsterGabe() {
     return (
         <>
