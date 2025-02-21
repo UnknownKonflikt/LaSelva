@@ -1,0 +1,25 @@
+.calendar-page {
+    max-width: 800px;
+    margin: 20px auto;
+    text-align: center;
+  }
+  
+  .selected-date {
+    margin-top: 20px;
+    font-size: 1.2rem;
+  }
+  
+  .event-day {
+    background-color: #ffeb3b; /* Highlight event days with a yellow color */
+    border-radius: 50%;
+    color: black;
+  }
+  
+  .react-calendar__tile {
+    transition: background-color 0.2s ease-in-out;
+  }
+  
+  .react-calendar__tile:enabled:hover {
+    background-color: #f0f0f0;
+  }
+  
