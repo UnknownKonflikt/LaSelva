@@ -18,7 +18,9 @@ function UnknownKonflikt() {
 
                                 <div className="card-body">
                                     <p className="card-text">Unknown Konflikt</p>
-                                    <p>Long time vinyl lover and things that go boom!!!</p>
+                                    <p>Hailing from Colorado, Unknown Konflikt began DJing in 1997, initially drawn to house and trance before discovering drum & bass in 1999. Since then, drum & bass has been the backbone of their sound, though they still explore other styles, always returning to their roots.  Known for a focus on liquid DNB with a jazzy side, Unknown Konflikt also brings heavy beats for the dancefloor when the moment calls for it. </p>
+                                    <p>
+                                        Over the years, he has had the opportunity to share the stage with some of the biggest names in the scene, including SUV, Saxxon, Fabio, Grooverider, John B, Ben Soundscape, Collette Warren, Lenzman, DJ Empress, Spikey Tee, Danny Tha Wildchild, AK1200, Lurch, Phaction, Dave Owen, and many others.  For the past five years, Unknown Konflikt has also focused on producing, bringing their unique style to original tracks that reflect their deep love for DNB.</p>
                                     <div className="d-flex justify-content-between align-items-center">
                                         <div className="btn-group">
                                             <a 

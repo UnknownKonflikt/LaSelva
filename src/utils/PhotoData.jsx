@@ -1,4 +1,4 @@
-const PhotoData = [
+export const PhotoData = [
     {
       image: 'src/assets/LaSelva/Events/afterhours.jpg',
       alt: 'Afterhours event at La Selva',
@@ -187,5 +187,5 @@ const PhotoData = [
 
   ];
   
-  export default PhotoData;
+
   
