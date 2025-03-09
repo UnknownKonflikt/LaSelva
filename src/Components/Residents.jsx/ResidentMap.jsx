@@ -4,7 +4,7 @@ import KrucialD from './KrucialD';
 import NapsterGabe from './NapsterGabe';
 import InnaK from './InnaK';
 import UnknownKonflikt from './UK';
-
+import camo from '../../assets/LaSelva/camo.jpg';
 
 function ResidentMap() {
 
@@ -13,7 +13,7 @@ function ResidentMap() {
       <section id="residents" 
       className="container"
       style={{
-        backgroundImage: 'url(src/assets/LaSelva/camo.jpg)',
+        backgroundImage: `url(${camo})`,
         backgroundPosition: 'center center',
         backgroundRepeat: 'repeat',
         padding: '40px',

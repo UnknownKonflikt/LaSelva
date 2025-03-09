@@ -2,7 +2,8 @@
 import { FaSoundcloud, FaMixcloud, FaBandcamp, FaFacebook, FaTiktok, FaTwitch, FaInstagram, FaYoutube } from 'react-icons/fa';
 //import Logo from '../../assets/LaSelva/LaSelvaLogo.png';
 import GabeDJ from '../../assets/LaSelva/NapsterGabe/GabeDJ.jpg';
-import gabeLogo from '../../assets/LaSelva/NapsterGabe/gabeLogo.png';
+import GabeLogo from '../../assets/LaSelva/NapsterGabe/GabeLogo.png';
+
 function NapsterGabe() {
     return (
         <>
@@ -12,7 +13,7 @@ function NapsterGabe() {
                     <div className="row row-cols-1 row-cols-sm-1 row-cols-md-2 g-6">
                         <div className="col my-2">
                             <div className="card border-outline shadow-sm">
-                                <img src={gabeLogo} alt="Napster Gabe Logo" className="bd-placeholder-img project-img card-img-top" />
+                                <img src={GabeLogo} alt="Napster Gabe Logo" className="bd-placeholder-img project-img card-img-top" />
                                 <img src={GabeDJ} alt="Napster Gabe profile" className="bd-placeholder-img project-img card-img-top" />
                                 <div className="card-body">
                                     <p className="card-text">Napster Gabe</p>
